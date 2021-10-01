@@ -1,0 +1,8 @@
+Declare Sub ShowCalendar(ByRef account As TAccount)
+Declare Sub ShowFixed(ByRef account as TAccount)
+Declare Sub ShowMonth(ByRef account as TAccount, As Integer, As Integer)
+Declare Sub CurrentMonth(ByRef account as TAccount)
+Declare Sub CurrentYear(ByRef account as TAccount)
+Declare Sub ShowYear(ByRef account As TAccount, As Integer)
+Declare Sub SearchStatements(ByRef account As TAccount)
+Declare Sub Savings(ByRef account As TAccount)
